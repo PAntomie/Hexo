@@ -105,5 +105,5 @@ deploy:
 
 # Aplayer
 aplayer: 
-  enable: true
+  enable: false
   asset_inline: false
