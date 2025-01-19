@@ -14,7 +14,7 @@ nano PKGBUILD
 ```
 use**↓**
 ![](../img/ac3.png)
-```
+```PKGBUILD
 ...
 build() {
   export ...
